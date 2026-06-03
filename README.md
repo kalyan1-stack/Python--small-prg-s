@@ -1,1 +1,1 @@
-# Python-small-prg's
+# Python_mini_prj's
